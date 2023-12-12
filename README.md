@@ -16,7 +16,11 @@ We created two machine learning models. Using the Tensor Flow model and the line
 #### TensorFlow
 #### Linear Regression
 ### Tableau Visualizations
-### Takeaways
+### Takeaways- Key Observations
+1.Like all datasets, outliers impacted our data analysis. For visualization purposes, with the excpetion of the Box Plot, we excluded outliers
+2.Our model had the best accuracy when run with maximum attributes as available in the data set
+3.Removing even a few rows containing null values had a high impact on the Model's efficiency.
+4.We found interesting trends while analyzing and visualizing the impact of habits on sleep efficiency by gender.
 ## Dependencies
 ## Challenges and Features
 add links and screenshots
