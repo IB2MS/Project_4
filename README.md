@@ -7,8 +7,11 @@ Aditi Garg, Olesya Gaeva, Allison Potestio, Anusha Sekhar, Brendan Smith, Neha C
 ## Overview
 ### Dataset and Research Questions
 ### Data Cleaning and Preparation
-### Machine Learning Model
-### Tableau and Matplotlib Visualizations
+### Machine Learning Models
+#### TensorFlow
+#### Linear Regression
+### Tableau Visualizations
 ### Takeaways
 ## Dependencies
 ## Challenges and Features
+add links and screenshots
