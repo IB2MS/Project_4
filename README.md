@@ -16,6 +16,8 @@ We created two machine learning models. Using the Tensor Flow model and the line
 #### TensorFlow
 #### Linear Regression
 ### Tableau Visualizations
+We used Tableau Desktop to find interesting takeaways from the data and to visualize comparisons between sleep efficiency and the other factors in our dataset. 
+
 ### Takeaways- Key Observations
   1. Like all datasets, outliers impacted our data analysis. For visualization purposes, with the excpetion of the Box Plot, we excluded outliers
   2. Our model had the best accuracy when run with maximum attributes as available in the data set
