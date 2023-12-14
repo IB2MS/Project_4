@@ -14,11 +14,8 @@ This dataset leads us to question what effects the demographic and habitual fact
 With this exercise, we are able to determine that these factors do affect sleep efficiency for these participants. 
 
 ### Data Preparation and Analysis 
-This data was read into a jupyter notebook and cleaned using the pandas library
-
-
-
-
+This data was read into a jupyter notebook and cleaned using the pandas library.
+Columns not needed for analysis were removed and get dummies was used to on categorical data so we could create models. 
 
 The data was then queried using Spark SQL so that we could learn more about our data and answer the following questions:
   
@@ -37,7 +34,8 @@ On our first run, we were able to use days per week of alcohol consumption as a 
 This process was repeated using caffeine consumption, smoking status, and exercise frequency to predict sleep efficiency. Due to the high accuracy of all models, we can determine that these factors affect sleep efficiency. 
 
 #### Logistic Regression
-
+After splitting the data into training and testing values, we craeted a logistic regression model. The logistic regression was fit to the testing data.
+The takeaway from this model is that the logistic regression model predict both labels as a positive impact. The Number of healthy sleeping is greater than the number of unhealthy sleeping. The model has a good accuracy model of 89%, the precision score for 1 (good sleeping) is 86% and the precision for 0 labels is bad sleep at 91%. The recall score is also quite high at 91% for prediction of 0 labels and 86% for good-sleep with the label 1.
 
 ### Tableau Visualizations
 [Sleep Efficiency Tableau Visualizations](https://public.tableau.com/app/profile/aditi.garg4753/viz/SleepEfficiency_Aditi_garg/SleepEfficiency?publish=yes)
