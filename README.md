@@ -40,7 +40,12 @@ This process was repeated using caffeine consumption, smoking status, and exerci
 
 
 ### Tableau Visualizations
-We used Tableau Desktop to find interesting takeaways from the data and to visualize comparisons between sleep efficiency and the other factors in our dataset. 
+[Sleep Efficiency Tableau Visualizations](https://public.tableau.com/app/profile/aditi.garg4753/viz/SleepEfficiency_Aditi_garg/SleepEfficiency?publish=yes)
+We used Tableau Desktop to find interesting takeaways from the data and to visualize comparisons between sleep efficiency and the other factors in our dataset, and the visualizations can be found at the link above. 
+These visualizations allowed us to see direct relationships between the demographic and habitual information and sleep efficiency. It was really interesting to see how comparing sleep efficiency with these factors created a stark difference in outcomes. 
+
+![image](https://github.com/IB2MS/Project_4/assets/135725909/b7582c0f-07b7-46d7-8f8b-c86af9eeb481)
+
 
 ### Takeaways- Key Observations
   1. Like all datasets, outliers impacted our data analysis. For visualization purposes, with the exception of the Box Plot, we excluded outliers
