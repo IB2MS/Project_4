@@ -51,7 +51,7 @@ These visualizations allowed us to see direct relationships between the demograp
   3. Removing even a few rows containing null values had a high impact on the Model's efficiency.
   4. We found interesting trends while analyzing and visualizing the impact of habits on sleep efficiency by gender.
        For example, alcohol consumption and smoking affect sleep efficiency
-  6. There are many different ways to achieve our goals - using what works best for the team allowed us to work well together
+  6. There are many different ways to achieve our goals - using what works best for the team allowed us to work well together.
 
 ![image](https://github.com/IB2MS/Project_4/assets/73354497/a53a8758-eeba-45b6-a227-d859ab82862f)
 
